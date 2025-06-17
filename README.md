@@ -32,7 +32,7 @@ chmod +x esprima-cli.js
 npm link
 ```
 
-![[Pasted image 20250523231741.png]]
+![3cc9ff75d25ec052f85c787117a2bc0](https://github.com/user-attachments/assets/042318df-00b8-44e3-b44b-61e05391e7c1)
 这样就成功把 CLI 工具注册为全局命令
 
 在任意位置（如 `C:\Users\lenovo`）都可以直接运行：
@@ -137,6 +137,6 @@ node F:\output.js
     
 - ✅ 支持错误提示
 ---
-![[Pasted image 20250523224435.png]]
+![0d7854a516b229ac7f24939542c156d](https://github.com/user-attachments/assets/b99e3aee-4cc6-4fc9-b3ea-41ff844ca919)
 好的现在一切准备就绪，可以进行封装和还原JS 了
 祝你玩的开心！
