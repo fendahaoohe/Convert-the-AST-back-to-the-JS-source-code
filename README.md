@@ -1,4 +1,4 @@
-![2c6d139cc8b3f8454cd4bd8a70b7d0a](https://github.com/user-attachments/assets/35d9fdba-af48-4456-9562-8efa8b44a97c)# Convert-the-AST-back-to-the-JS-source-code
+# Convert-the-AST-back-to-the-JS-source-code
 适合CTF中的AST(JSON)代码转换成源JS代码，也可以使JS封装成AST
 # 准备环境
 首先需要确保安装好 Node.js 和 npm，且项目文件夹里安装了必要模块
